@@ -1,4 +1,5 @@
-Upload your investigations mentioned in SoP.
+Upload your investigations mentioned in SoP. 
 
 See what effect a neural net, involving visual data for example, has when you use it to do two different tasks. Does it improve 
 because it uses information for one task to do another task?
+How is this different from co-training? That seems obvious. But, how is it similar? Intuitionally, seems similar.
